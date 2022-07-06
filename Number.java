@@ -13,6 +13,6 @@ public class Number {
 
         // 나누기를 할 때는 /(슬래쉬, slash)를 사용한다.
         System.out.println(6/2);
-        // 결과 : 3
+        // 결과 : 33
     }
 }
