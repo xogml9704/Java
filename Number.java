@@ -1,5 +1,5 @@
 public class Number {
-    public static void main(String[] args) {
+    public static void main(String[] rgs) {
         // 자바에서는 따옴표가 없는 숫자로 인식된다.
         System.out.println(1+2);
         // 결과 : 3
