@@ -10,6 +10,6 @@ public class CharString {
         // 만약 문자열을 작은 따옴표로 감싸면 에러가 발생한다.
         // 하나의 문자를 큰 따옴표로 감싼다고 에러가 발생하지는 않는다.
         // 한 글자도 문자열이 될 수 있기 때문이다.
-        System.out.println("a");
+        System.out.println("ab");
     }
 }
