@@ -11,5 +11,24 @@ public class CharString {
         // 하나의 문자를 큰 따옴표로 감싼다고 에러가 발생하지는 않는다.
         // 한 글자도 문자열이 될 수 있기 때문이다.
         System.out.println("ab");
+
+        System.out.println("생활코딩"+"입니다.");
+        // 문자열과 문자열을 더 해서 출력 할 수 있다.
+
+        System.out.println("1"+"1");
+        // 출력 결과  : 11
+
+        //이스케이프
+        //만약 문자열 안에 큰 따옴표를 넣으려면 어떻게 해야하는가?
+        System.out.println("egoing said \"Welcome programming world\"");
+        // \를 "앞에 위치 시키면 "를 문자열의 시작과 끝을 구분하는 구분자가 아니라
+        // 단순히 문자로 해석하도록 강제할 수 있다.
+        // 이러한 기법을 escape(이스케이프)라고 한다.
+        // 큰 따옴표가 가진 문법적인 역할에서 도망쳐서 문자로 인식하도록 한다는 의미
+
+        // 여러줄의 표시
+        System.out.println("egoing said \n \"Welcome programming world\"");
+        // 
+
     }
 }
