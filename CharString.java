@@ -28,7 +28,7 @@ public class CharString {
 
         // 여러줄의 표시
         System.out.println("egoing said \n \"Welcome programming world\"");
-        // 
+        // 여러 줄을 표시하고 싶을 때는 \n 을 사용하면 된다.
 
     }
 }
