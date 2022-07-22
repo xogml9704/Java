@@ -1,3 +1,4 @@
+package 변수;
 public class Number {
     public static void main(String[] args) {
         // 자바에서는 따옴표가 없는 숫자로 인식된다.

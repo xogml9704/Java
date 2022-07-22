@@ -1,3 +1,4 @@
+package 문자와문자열;
 public class CharString {
     // 문자와 문자열
     // 자바는 문자(Character)와 문자열(String)을 구분한다. 문자는

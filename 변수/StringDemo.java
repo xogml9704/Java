@@ -1,3 +1,4 @@
+package 변수;
 public class StringDemo {
     public static void main (String[] args) {
         // String first;
