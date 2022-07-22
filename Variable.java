@@ -10,6 +10,6 @@ public class Variable {
         System.out.println(a+1); // 2
         
         a = 2;
-        System.out.println(a+1); // 31
+        System.out.println(a+1); // 3
     }
 }
