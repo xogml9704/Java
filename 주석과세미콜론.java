@@ -27,7 +27,7 @@ public class 주석과세미콜론 {
 
         Bicycle myBike = new Bicycle();
 
-        // 세미콜론을 이용하면 여러개의 문장을 한줄에 표현할 수 있다.
+        // 세미콜론을 이용하면 여러개의 문장을 한줄에 표현할 수 있다...
         int a = 100; double b = 10.1;
     }
 }
