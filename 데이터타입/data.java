@@ -25,5 +25,7 @@ public class data {
 
         int a;
         a = 100000000;
+
+        byte district = 1; // 경기도
     }
 }
