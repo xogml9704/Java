@@ -27,5 +27,20 @@ public class data {
         a = 100000000;
 
         byte district = 1; // 경기도
+
+        /*
+        실수형
+        float / 4 byte
+        double / 8 byte
+
+        실수형은 float과 double이 있다. 실수를 사용할 떄는 double을 사용하도록 하자
+         */
+
+        /*
+        문자
+        char / 2 byte / 모든 유니코드 문자 ㅇㅇ
+         */
+
+         
     }
 }
