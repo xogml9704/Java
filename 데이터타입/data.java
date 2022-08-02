@@ -38,7 +38,7 @@ public class data {
 
         /*
         문자
-        char / 2 byte / 모든 유니코드 문자
+        char / 2 byte / 모든 유니코드 문자 가야지 가야지
          */
 
          
