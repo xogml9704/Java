@@ -24,7 +24,7 @@ public class 주석과세미콜론 {
 
         aValue++;
 
-        System.out.println("Hello World~~");
+        System.out.println("Hello World~~~~");
 
         Bicycle myBike = new Bicycle();
 
