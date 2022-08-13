@@ -25,5 +25,15 @@ public class 상수 {
 
         System.out.println(d);
 
+        byte e = 100;
+        // 무엇을 붙이지 않으면 기본 형으로 잡히게 됨.
+
+        short f = 200;
+
+        System.out.println(e);
+        System.out.println(f);
+
+
+
     }
 }
