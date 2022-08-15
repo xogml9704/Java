@@ -31,6 +31,7 @@ public class 상수 {
         short f = 200;
 
         System.out.println(e);
+        System.out.println(f);
 
 
 
