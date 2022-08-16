@@ -32,6 +32,8 @@ public class 상수 {
 
         System.out.println(e);
         System.out.println(f);
+        System.out.println(a+b+c);
+        System.out.println(e+f);
 
 
 
