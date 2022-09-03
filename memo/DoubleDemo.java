@@ -1,4 +1,4 @@
-package 변수;
+package memo;
 public class DoubleDemo {
     public static void main (String[] args) {
         double a; // double = 실수

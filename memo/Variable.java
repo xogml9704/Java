@@ -1,4 +1,4 @@
-package 변수;
+package memo;
 public class Variable {
     public static void main(String[] args) {
         // 변수

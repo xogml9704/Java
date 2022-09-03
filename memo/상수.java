@@ -1,4 +1,4 @@
-package 데이터타입;
+package memo;
 
 public class 상수 {
     public static void main(String args[]) {

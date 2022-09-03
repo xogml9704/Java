@@ -1,4 +1,4 @@
-package 데이터타입;
+package memo;
 
 public class data {
     public static void main(String[] args) {

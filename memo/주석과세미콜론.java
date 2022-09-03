@@ -1,4 +1,4 @@
-package 주석과세미콜론;
+package memo;
 public class 주석과세미콜론 {
     public static void main(String[] args) {
         // 주석(comment)은 로직에 대한 설명이나 코드를 비활성화 할 때 사용한다.
