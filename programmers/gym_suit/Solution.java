@@ -1,4 +1,4 @@
-package programmers;
+package programmers.gym_suit;
 
 import java.util.Arrays;
 
