@@ -28,7 +28,7 @@ public class test {
                     }
                     for(int l=0; l<=xy; l++) {
                         if(arr[j-l][k] == "H") {
-                            arr[j-1][k] = "X";
+                            arr[j-l][k] = "X";
                         }
                         if(arr[j+l][k] == "H") {
                             arr[j+l][k] = "X";
