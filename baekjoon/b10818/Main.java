@@ -20,7 +20,7 @@ public class Main {
 		int max = b[0];
 		int min = b[0];
 		
-		for(int i=0; i<a.length; i++) {
+		for(int i=0; i<b.length; i++) {
 			if(max < b[i]) {
 				max = b[i];
 			}
