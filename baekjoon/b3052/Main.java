@@ -20,7 +20,6 @@ public class Main {
 				}
 			}
 		}
-		System.out.println(arr.length - count);
-				
+		System.out.println(arr.length - count);	
 	}
 }
