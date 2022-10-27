@@ -42,6 +42,7 @@ public class Solution {
 
         int[] sum_arr = new int[sum.length];
 
+        
         for(int i=0; i<sum.length; i++) {
             sum_arr[i] = (int) sum[i][0];
         }
