@@ -46,6 +46,7 @@ public class Solution {
         }
         for (int i=0; i<sumlength; i++) {
             System.out.println(i);
+            System.out.println(i);
         }
     }
 }
