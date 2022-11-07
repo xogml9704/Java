@@ -44,9 +44,6 @@ public class Solution {
         for(int i=0; i<sum.length; i++) {
             sum_arr[i] = (int) sum[i][0];
         }
-        for (int i=0; i<sumlength; i++) {
-            System.out.println(i);
-            System.out.println(i);
-        }
+
     }
 }
